@@ -19,7 +19,7 @@
 
 # HDFS-Native
 
-> A rust wrapper over libhdfs3 developed by Apache HAWQ
+> A rust wrapper over libhdfs3 developed by Apache HAWQ based on autocxx, it's still wip
 
 ### TODOs:
 - [ ] Read path
